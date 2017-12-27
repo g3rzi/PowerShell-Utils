@@ -36,7 +36,7 @@
     $sb.Append("@(") | Out-Null
     $bytes | % {
         
-        $sb.Append($prefix)
+        $sb.Append($prefix) | Out-Null
         $prefix = ","
         $sb.Append($_) | Out-Null
     }
