@@ -14,7 +14,7 @@
 		The target file that will contain the text
 			
 	.EXAMPLE
-        Convert-FileToArrayBytesFile -FileToConvertPath "C:\tmp\1.txt" -NewFilePath "c:\tmp\calc3.txt"
+        	Convert-FileToArrayBytesFile -FileToConvertPath "C:\tmp\1.txt" -NewFilePath "c:\tmp\calc3.txt"
 
 #>
 
