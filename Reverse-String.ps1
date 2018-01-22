@@ -14,7 +14,7 @@ function Reverse-String
 
 	.EXAMPLE
         	Reverse-String "abc"
-			# Output: "cba"
+		# Output: "cba"
 #>
 
   Param(
