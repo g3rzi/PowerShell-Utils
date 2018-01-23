@@ -6,7 +6,7 @@ function Reverse-String
 			
 	.DESCRIPTION
 		Reverse string.
-		Based on articale from Microsoft:
+		Based on article from Microsoft:
 		https://blogs.technet.microsoft.com/heyscriptingguy/2015/11/04/reverse-strings-with-powershell/
 		
 	.PARAMETER StringToReverse
