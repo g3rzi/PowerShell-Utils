@@ -5,14 +5,14 @@
 		Author: Eviatar Gerzi (@g3rzi)
 			
 	.DESCRIPTION
-        Just rewrite a given file
+        	Just rewrite a given file
 
 	.PARAMETER File
 		The original file
 			
 	.EXAMPLE
         	Rewrite-File -File "C:\tmp\file.txt"
-            Output: [*] File 'C:\tmp\file0.txt' was created !
+           	Output: [*] File 'C:\tmp\file0.txt' was created !
 #>
 
     [CmdletBinding()]
